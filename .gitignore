@@ -128,5 +128,5 @@ dmypy.json
 # Pyre type checker
 .pyre/
 .DS_Store
-src/data/portfolio/*
-src/data/snp500/*
+src/web-app/data/portfolio/*
+src/web-app/data/snp500/*
